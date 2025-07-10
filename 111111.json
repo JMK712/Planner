@@ -1,0 +1,75 @@
+{
+  "tasks": [
+    {
+      "subject": "英语",
+      "title": "限时训练",
+      "duration": 55,
+      "repeat": 5
+    },
+    {
+      "subject": "英语",
+      "title": "期刊阅读",
+      "duration": 30,
+      "repeat": 5
+    },
+    {
+      "subject": "化学",
+      "title": "基础学案整理",
+      "duration": 70,
+      "repeat": 6
+    },
+    {
+      "subject": "化学",
+      "title": "高指第一部分-无机化学实验 ",
+      "duration": 20,
+      "repeat": 23
+    },
+    {
+      "subject": "化学",
+      "title": "“第二部分”有机推断&结构模块 B组",
+      "duration": 20,
+      "repeat": 5
+    },
+    {
+      "subject": "化学",
+      "title": "“第三部分”实验探究&无机原理 B组",
+      "duration": 20,
+      "repeat": 4
+    },
+    {
+      "subject": "生物",
+      "title": "概念体系构建",
+      "duration": 60,
+      "repeat": 4
+    },
+    {
+      "subject": "生物",
+      "title": "大白本-一轮预习第三单元:细胞的生命历程（P154-161）（两页）",
+      "duration": 30,
+      "repeat": 7
+    },
+    {
+      "subject": "生物",
+      "title": "综合练习",
+      "duration": 90,
+      "repeat": 3
+    },
+    {
+      "subject": "生物",
+      "title": "文献阅读",
+      "duration": 90,
+      "repeat": 1
+    }
+  ],
+  "config": {
+    "start_date": "2025-07-12",
+    "end_date": "2025-08-01",
+    "time_slots": [
+      "08:30-11:30",
+      "1:30-17:00",
+      "19:00-20:30"
+    ],
+    "weekend_off": false,
+    "rest_minutes": 10
+  }
+}
